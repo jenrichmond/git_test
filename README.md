@@ -9,4 +9,4 @@ will this work when I am showing Julia??
 
 I have just cloned this repo
 
-adding a new readme line to create a conflict-- a bit more content
+adding a new readme line to create a conflict-- a bit more content-- a little bit more here to make it challenging
